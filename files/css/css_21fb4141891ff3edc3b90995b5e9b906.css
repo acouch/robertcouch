@@ -171,13 +171,13 @@ div.fieldgroup{margin:.5em 0 1em 0;}div.fieldgroup .content{padding-left:1em;}
 	}
 	#header {
 		margin: 0;
-		padding: 0 25px;
+		padding: 0 10px;
 	}
 	#block-menu-primary-links {
-		padding: 25px;
+		padding: 10px;
   }
 	#content-inner {
-		padding: 0 25px;
+		padding: 0 10px;
 		margin: 0;
 	}
 }
